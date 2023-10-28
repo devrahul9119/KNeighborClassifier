@@ -1,2 +1,2 @@
 # KNeighborClassifier
-<h1>In this code I used Scikit-learn class to use Knn for classifiers</h1>
+<h2>Making of KNeighborsClassifier code from scratch</h2>
